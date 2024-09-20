@@ -27,7 +27,7 @@ function App() {
 
   return (
    <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat' 
-   style={{backgroundImage: 'url(https://images.pexels.com/photos/259209/pexels-photo-259209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)'}}>
+   style={{backgroundImage: 'url(https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600)'}}>
     <div className='w-full'>
     <div className='w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30'>
       <form onSubmit={(e) => {
